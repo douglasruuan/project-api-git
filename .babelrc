@@ -1,0 +1,14 @@
+{
+    "presets": [
+        "@babel/preset-env"
+    ],
+    "plugins": [
+        "@babel/plugin-proposal-object-rest-spread",
+        "@babel/plugin-transform-async-to-generator"
+    ]
+    
+    //Preset-env ele vai entender qual o ambiente que estamos trabalhando nesse projeto que o browser.
+    //Porque o babel pode ser utilizado também pra node, react native.
+    //Preset-env vai entender que estamos trabalhando no navegador e ele vai converter as features do ES6 ES7 ES8.
+    //Que os navegadores não entendem ainda.
+}
