@@ -249,7 +249,7 @@ Na pasta **src** ira ficar todo o código em javascript que o webpack precisa mo
 Podemos deletar o arquivo /bundle.js pois iremos gerar outro dentro da pasta **public**.
 Teremos que alterar o arquivo webpack.config.js pois mudamos alguns arquivos de lugar como o **entry** e o **path**.
 
-![Arquivos do Projeto](https://ibb.co/56yF4QL)
+[Pasta do Projeto](https://ibb.co/56yF4QL)
 
 # Async/await.
 
